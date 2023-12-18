@@ -1,0 +1,294 @@
+{
+	"languages": ["fr", "eng"],
+	    "translation": [   
+	        {
+	            "en": "Carbon footprint comparison between single-use medical devices and reusable medical devices, with steam sterilization",
+	            "fr": "Comparateur d'empreinte carbone entre un dispositif médical à usage unique et un dispositif réutilisable, avec stérilisation à la vapeur"
+	        },
+	        {
+	            "en": "Home",
+	            "fr": "Formulaire"
+	        },
+	        {
+	            "en": "Name of the Medical Device (MD)",
+	            "fr": "Nom du Dispositif Médical (DM)"
+	        },
+	        {
+	            "en": "Data for the Reusable device",
+	            "fr": "Données du dispositif Réutilisable"
+	        },
+	        {
+	            "en": "Main material",
+	            "fr": "Matière principale"
+	        },
+	        {
+	            "en": "Medical device weight (kg)",
+	            "fr": "Masse du dispositif médical (kg)"
+	        },
+	        {
+	            "en": "Manufacturing origin",
+	            "fr": "Origine de fabrication"
+	        },
+	        {
+	            "en": "Unit price (€ pre-tax)",
+	            "fr": "Prix unitaire (€ HT)"
+	        },
+	        {
+	            "en": "Reuse procedure:",
+	            "fr": "Procédures pour réutilisation :"
+			},
+	        {
+	            "en": "Country where the washing/sterilization is done",
+	            "fr": "Pays où le lavage/stérilisation est réalisé"
+			},
+	        {
+	            "en": "Yes",
+	            "fr": "Oui"
+			},
+	        {
+	            "en": "No",
+	            "fr": "Non"
+			},
+	        {
+	            "en": "Pre-disinfection after usage",
+	            "fr": "Pré-désinfection après utilisation"
+			},
+	        {
+	            "en": "If pre-disinfection by soaking, amount of disinfectant solution by MD (Liter)",
+	            "fr": "Si pré-désinfection par trempage, quantité de solution désinfectante par DM (Litre)"    
+			},
+	        {
+	            "en": "Note : indicate an average per MD, by dividing the pre-disinfection bath total volume with the number of soaked MD",
+	            "fr": "Remarque : indiquer une moyenne par DM, en divisant le volume total du bain de pré-désinfection par le nombre de DM qui y sont trempés."
+	        },
+	        {
+	            "en": "If pre-disinfection with wipes, number of wipes used by MD",
+	            "fr": "Si pré-désinfection avec lingette, nombre de lingette(s) utilisée(s) par DM"
+	        },
+	        {
+	            "en": "Washer/disinfector cycle",
+	            "fr": "Passage en laveur/désinfecteur"
+	        },
+	        {
+	            "en": "Maximum number of MD that can be sterilized at the same time in a normalized basket of 30x60x30 cm",
+	            "fr": "Nombre de DM maximal qui peuvent etre stérilisés en meme temps dans une panière normalisée de 30x60x30 cm"
+	        },
+	        {
+	            "en": "Note : multiply by two if you are using a smaller basket of 30x60x15 cm",
+	            "fr": "Remarque : multiplier par deux si vous utilisez une panière moins haute, de 30x60x15 cm"    
+	        },
+	        {
+	            "en": "Sterilization packaging",
+	            "fr": "Emballage de stérilisation"
+	        },
+	        {
+	            "en": "If bag or folding, weight of the packaging (put 15% of the MD weight if unknown) (kg)",
+	            "fr": "Si sachet ou pliage, poids de l'emballage (mettre 15% du poids du DM si inconnu) (kg)"
+	        },
+	        {
+	            "en": "Sterilizer average filling rate (%)",
+	            "fr": "Taux de remplissage moyen du stérilisateur (%)"
+	        },
+	        {
+	            "en": "Data for the Single-use device",
+	            "fr": "Données du dispositif à Usage Unique"
+	        },
+	        {
+	            "en": "End of life (waste management)",
+	            "fr": "Fin de vie (gestion du déchet)"
+	        },
+	        {
+	            "en": "Incineration with energy recovery",
+	            "fr": "Incinération avec récupération d'énergie"
+	        },
+	        {
+	            "en": "Incineration without energy recovery",
+	            "fr": "Incinération sans récupération d'énergie"
+	        },
+	        {
+	            "en": "Landfill of waste",
+	            "fr": "Mise en décharge"
+	        },
+	        {
+	            "en": "Unknown",
+	            "fr": "Inconnue"
+	        },
+	        {
+	            "en": "Calculate",
+	            "fr": "Calculer"                 
+	        },
+	        {
+	            "en": "Please submit a number of reuse for the reusable MD",
+	            "fr": "Veuillez rentrer un nombre de réutilisation pour le DM réutilisable"
+	        },
+	        {
+	            "en": "Show Percentages",
+	            "fr": "Montrer les pourcentages"       
+	        },
+	        {
+	            "en": "Generate a screenshot",
+	            "fr": "Génerer une capture d'écran"
+	        },
+	        {
+	            "en": "Please input a value superior or equal to 0",
+	            "fr": "Veuillez rentrer une valeur supérieure ou égale à 0"
+	        },
+	        {
+	            "en": "Reusable medical device carbon footprint (unused): ",
+	            "fr": "Empreinte carbone du DM réutilisable neuf : "
+	        },
+	        {
+	            "en": "Single-use medical device carbon footprint: ",
+	            "fr": "Empreinte carbone du DM à usage unique : "
+	        },
+	        {
+	            "en": "eq/device",						
+	            "fr": "eq/dispositif"      			  
+	        },
+	        {
+	            "en": "Carbon footprint of one washing/sterilization of the reusable MD: ",
+	            "fr": "Empreinte carbone d'un lavage/stérilisation du DM réutilisable : "
+	        },
+	        {
+	            "en": "Number of uses",
+	            "fr": "Nombre d'utilisations"
+	        },
+	        {
+	            "en": "MD emissions per use",
+	            "fr": "Emissions des DM par utilisation"
+	        },
+	        {
+	            "en": "Emissions (kgCO2eq)",
+	            "fr": "Emissions (kgCO2eq)"
+	        },
+	        {
+	            "en": "After: ",
+	            "fr": "Après: "
+	        },
+	        {
+	            "en": " use(s), the carbon footprint of the reusable MD is lower then the single-use one",
+	            "fr": " utilisation(s), l'empreinte carbone du DM réutilisable est plus faible que celle de l'usage unique"
+	        },
+	        {
+	            "en": "The single-use MD has a lower carbon footprint then the reusable one, whatever the number of reuse is",
+	            "fr": "Le DM à usage unique a une empreinte carbone plus faible que celle du DM réutilisable, quelque soit le nombre de réutilisations"
+	        },
+	        {
+	            "en": "Cumulated emissions",
+	            "fr": "Emissions cumulées"
+	        },
+	        {
+	            "en": "Unique-usage",
+	            "fr": "Usage unique"
+	        },
+	        {
+	            "en": "Reusable",
+	            "fr": "Réutilisable"
+	        },
+	        {
+	            "en": "MD production",
+	            "fr": "Production du DM"
+	        },
+	        {
+	            "en": "MD end of life",
+	            "fr": "Fin de vie du DM"
+	        },
+	        {
+	            "en": "Pre-disinfection",
+	            "fr": "Pré-désinfection"
+	        },
+	        {
+	            "en": "Electricity and water (washing and sterilization)",
+	            "fr": "Electricité et eau (lavage et stérilisation)"
+	        },
+	        {
+	            "en": "Machines purchase (washer and steriliser)",
+	            "fr": "Achat des machines (laveur et stérilisateur)"
+	        },
+	        {
+	            "en": "Consumables and detergent (washing and sterilization)",
+	            "fr": "Consommables et détergent (lavage et stérilisation)"
+	        },
+	        {
+	            "en": "Employee commuting (washing and sterilization)",
+	            "fr": "Trajets domicile-travail (lavage et stérilisation)"
+	        },
+	        {
+	            "en": "Device",
+	            "fr": "Dispositif"     			
+	        },
+	        {
+	            "en": "Percentage (%)",
+	            "fr": "Pourcentage (%)"
+	        },
+	        {
+	            "en": "Percentage of CO2 emissions per category per device",
+	            "fr": "Pourcentage d'émissions de CO2 par catégories et par dispositif"        
+	        },
+	        {
+	            "en": "Plastic",
+	            "fr": "Plastique"
+	        },
+	        {
+	            "en": "Metal",
+	            "fr": "Métal"
+	        },
+	        {
+	            "en": "Glass",
+	            "fr": "Verre"
+	        },
+	        {
+	            "en": "Multi-materials",
+	            "fr": "Multi-matériaux"
+	        },
+	        {
+	            "en": "Western Europe",
+	            "fr": "Europe de l'Ouest"
+	        },
+	        {
+	            "en": "Eastern Europe",
+	            "fr": "Europe de l'Est"
+	        },
+	        {
+	            "en": "Asia",
+	            "fr": "Asie"
+	        },
+	        {
+	            "en": "America",
+	            "fr": "Amérique"
+	        },
+	        {
+	            "en": "Rest of the world",
+	            "fr": "Reste du monde"
+	        },
+	        {
+	            "en": "Bag",
+	            "fr": "Sachet"
+	        },
+	        {
+	            "en": "Folding",
+	            "fr": "Pliage"
+	        },
+	        {
+	            "en": "Reusable box",
+	            "fr": "Boîte réutilisable"
+	        },
+	        {
+	            "en": "Reusable MD",
+	            "fr": "DM réutilisable"
+	        },
+	        {
+	            "en": "Contact us",
+	            "fr": "Nous contacter"
+	        },
+	        {
+	            "en": "Methodology",
+	            "fr": "Méthodologie"
+	        },
+	        {
+	            "en": "Single-use MD",
+	            "fr": "DM usage-unique"
+	        }
+    
+	    ]
+	}

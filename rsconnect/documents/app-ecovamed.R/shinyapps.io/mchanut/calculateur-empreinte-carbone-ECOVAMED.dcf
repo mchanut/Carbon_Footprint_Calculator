@@ -1,0 +1,13 @@
+name: calculateur-empreinte-carbone-ECOVAMED
+title: calculateur-empreinte-carbone-ECOVAMED
+username:
+account: mchanut
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9406770
+bundleId: 7478680
+url: https://mchanut.shinyapps.io/calculateur-empreinte-carbone-ECOVAMED/
+when: 1689858490.93205
+lastSyncTime: 1689858490.93206
+asMultiple: FALSE
+asStatic: FALSE
